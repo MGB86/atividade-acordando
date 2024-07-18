@@ -1,0 +1,23 @@
+Acordando
+1- Despertador toca
+2- Abrir os olhos
+3- Tirar as cobertas de cima de sí
+4- Sentar
+5- Calçar pantufas
+6- Se levantar 
+7- Ir até o despertador
+8- Desligar despertador
+9- Ir até a cama
+	10- Pegar cobertor
+	11- Dobrar cobertor
+12- Abrir guarda roupas 
+13- Guardar cobertores
+14- Pegar roupas de cama
+15- Fechar guarda roupas
+16- Arrumar lençol 
+17- Arrumar travesseiros 
+18- Colar roupa de cama
+FIM
+
+
+
